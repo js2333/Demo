@@ -1,4 +1,4 @@
-package main.java.com;
+package com;
 
 /**
  * @author 李畅
@@ -6,6 +6,6 @@ package main.java.com;
  */
 public class demo {
     public static void main(String[] args) {
-        System.out.println("江帅是阴阳师");
+        System.out.println("李畅是阴阳师");
     }
 }
